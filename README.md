@@ -12,6 +12,6 @@
  </body>
  <footer>
 <p>якщо ви хочите дізнатися більше дзвоніть по номиру:380987487846 </p>
-<a href=" https://matvij321.github.io/index.html/"> про цербера</a>
+<a href=" https://matvij321.github.io/index3.html/"> про цербера</a>
  </footer>
 </html>
